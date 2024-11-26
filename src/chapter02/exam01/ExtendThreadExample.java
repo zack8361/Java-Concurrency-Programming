@@ -1,4 +1,4 @@
-package chapter02;
+package chapter02.exam01;
 
 /**
  * v1

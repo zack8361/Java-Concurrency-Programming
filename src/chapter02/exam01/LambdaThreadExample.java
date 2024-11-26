@@ -1,4 +1,4 @@
-package chapter02;
+package chapter02.exam01;
 
 public class LambdaThreadExample {
     public static void main(String[] args) {

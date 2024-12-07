@@ -6,7 +6,7 @@ public class Ex02 {
 
         new Thread(()-> {
             while (running){
-                System.out.println("Thread1 is running");
+
             }
             System.out.println("Thread1 is terminated");
         }).start();
